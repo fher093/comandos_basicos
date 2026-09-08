@@ -1,6 +1,11 @@
 .vscode/ 
 .DS_Store 
 .env 
-*.log
 *.bak
-indicaciones.info
+indicaciones.info 
+
+node_modules/
+.env
+dist/
+*.log 
+
